@@ -2,6 +2,10 @@
 
 # Dieudonne_Omba_FinalProject
 
+![Dieudonne Omba](./image/Screenshot%202023-12-12%20at%202.21.47%20PM.png)
+![Dieudonne Omba](./image/Screenshot%202023-12-12%20at%202.22.27%20PM.png)
+![Dieudonne Omba](./image/Screenshot%202023-12-12%20at%202.24.32%20PM.png)
+
 function getDaysUntilChristmas() {
     const today = new Date();
     const christmasDate = new Date(today.getFullYear(), 11, 25); 
